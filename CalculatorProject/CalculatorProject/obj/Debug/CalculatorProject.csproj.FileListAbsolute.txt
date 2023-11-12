@@ -1,0 +1,11 @@
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\yannb\OneDrive\Desktop\C# programs\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
